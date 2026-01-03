@@ -26,15 +26,3 @@ Fail
 🛠 Tech Stack
 Language: Python 3
 GUI Library: Tkinter
-📸 Screenshots (Optional)
-Add screenshots here if you want
-Copy code
-
-screenshots/
-├── home.png
-└── result.png
-Then include:
-Copy code
-Md
-![Home Screen](screenshots/home.png)
-![Result Screen](screenshots/result.png)
